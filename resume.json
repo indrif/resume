@@ -1,0 +1,180 @@
+{
+  "basics": {
+    "name": "Daniel Winther",
+    "label": "System developer",
+    "picture": "",
+    "email": "info@danielwinther.se",
+    "phone": "070 719 7708",
+    "website": "http://danielwinther.se",
+    "summary": "System developer in a wide variety of areas. Currently mainly focused on web.",
+    "location": {
+      "address": "Glimmervägen 10A",
+      "postalCode": "185 94",
+      "city": "Vaxholm",
+      "countryCode": "SE",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "indrif",
+        "url": "https://github.com/indrif"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Etimo AB",
+      "position": "Senior consultant",
+      "website": "https://etimo.se",
+      "startDate": "Dec 2016",
+      "endDate": "Current",
+      "summary": "Todo",
+      "highlights": [
+        "Todo",
+        "todo",
+        "todo"
+      ]
+    },
+    {
+      "company": "Blocket AB",
+      "position": "System developer",
+      "website": "https://blocket.se",
+      "startDate": "Sept 2012",
+      "endDate": "Nov 2016",
+      "summary": "Blocket is Sweden's largest e-commerce site. Mainly working as a back- and frontend developer on Blocket Bostad (real estate). ",
+      "highlights": [
+        "Was a part of the core team that developed a brand new platform for managing and sending emails from Blocket. This was developed as a first step from breaking up a monolith into services.",
+        "Was in charge of the api development that supported the development of a brand new app for Blocket Bostad.",
+        "Was a part of the core team that developed and launched a completely new site in order to go from an underdog to a leading competitor on the swedish real estate market.",
+        "Was a part of a team that designed and implemented a system for realtime analyzes of all data on Blocket to be able to deliver better ad content.",
+        "Technologies used: Python, Java, PHP, Javascript, CSS, HTML and Postgresql."
+      ]
+    },
+    {
+      "company": "Diino Systems AB",
+      "position": "System developer",
+      "website": "https://diino.com",
+      "startDate": "Sep 2011",
+      "endDate": "Aug 2012",
+      "summary": "Diino develops a cloud backup platform. I was in charge of the development of the backend storage platform. The development involved handling massive amount of sensitive data under heavy load in a large, distributed system. I also worked in close cooperation with the client developers (outsourced) to be able to incorporate and develop a flexible api for the platform.",
+      "highlights": [
+        "Technologies used: Perl, mod_perl2, MySQL and CouchDB."
+      ]
+    },
+    {
+      "company": "Bonnier Utbildning",
+      "position": "System developer consultant",
+      "website": "",
+      "startDate": "Oct 2010",
+      "endDate": "Jan 2012",
+      "summary": "Bonnier Utbildning developed e-learning resources for schools in Sweden. I was in charge of the development of a new virtual education platform for digital books with integrated interactive exercises and games.",
+      "highlights": [
+        "Technologies used: Actionscript, Javascript, jQuery, PHP, HTML and CSS."
+      ]
+    },
+    {
+      "company": "Devillusion AB",
+      "position": "System architect / Lead developer",
+      "website": "",
+      "startDate": "July 2009",
+      "endDate": "Dec 2011",
+      "summary": "Devillusion developed a browser based online multiplayer game called Aloriah. I was one of the founders of the company and worked with the overall system architecture for the entire game and all of its support systems, payment integrations and tools. The game was a brief success with a peak of around 40 000 active accounts and has been featured on many places around the internet.",
+      "highlights": [
+        "Technologies used: Java, PHP, Javascript, CSS, HTML, jQuery and MySQL."
+      ]
+    },
+    {
+      "company": "Gemalto",
+      "position": "System developer",
+      "website": "https://gemalto.com",
+      "startDate": "Jan 2008",
+      "endDate": "Dec 2008",
+      "summary": "Gemalto is a global leader in digital security. I developed a software for distributed, secure and transactional transferring of files between physically separated networks. Also worked a lot with development of tools to handle Mifare cards and the encoding/decoding of them.",
+      "highlights": [
+        "Technologies used: .NET, C# and SQL Server."
+      ]
+    },
+    {
+      "company": "Setec TAG AB",
+      "position": "Developer",
+      "website": "",
+      "startDate": "May 2007",
+      "endDate": "Dec 2007",
+      "summary": "Setec TAG was a company in digital security and was aquired by Gemalto. I worked with the development of digital camera software components for use in their personalization software. I also designed and developed an application that is used to visually create encoding profiles for Mifare chip cards.",
+      "highlights": [
+        "Technologies used: .NET, C# and C++."
+      ]
+    },
+    {
+      "company": "DW Games",
+      "position": "Company owner",
+      "website": "",
+      "startDate": "Jan 2005",
+      "endDate": "Dec 2007",
+      "summary": "I designed and developed a number of games for the old (Java) generation of mobile phones. They sold in around 70 000 copies and was distributed in all of Europe.",
+      "highlights": [
+        "Technologies used: Java and Java ME."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Royal institue of Technology",
+      "area": "Computer technology",
+      "studyType": "Master",
+      "startDate": "2005",
+      "endDate": "2011",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Elias Selinder (colleague at Bonnier Utbildning)",
+      "reference": "I worked with Daniel full-time for about 6 months and hired him as a consultant the rest of the time. We were very pleased with his work at Bonnier Utbildning (now Sanoma). He proved to be a skilled system developer and very sociable and easy to work with. I can definitely recommend Daniel as a system developer and colleague."
+    },
+    {
+      "name": "Linda Ekberg (colleague at Gemalto)",
+      "reference": "Daniel has helped us out in several development projects over the past years and we keep asking for his help as he is an excellent developer who delivers quality solutions every time. Not only is he a self-sufficient developer with great knowledge of software engineering, but he is also very social and easygoing which alleviates the collaboration in the project. I can highly recommend Daniel as a developer and as a person and would very much like to work with him again in the future."
+    }
+  ]
+}
